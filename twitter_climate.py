@@ -133,10 +133,10 @@ if __name__ == '__main__':
     delivery_stream_name = 'twitter_climate'
 
     # Set twitter credentials
-    consumer_key = 'OLJlWCVJnwlBpPEMHYQ8tIS8M'
-    consumer_secret = '0i634LS6hUrj2AnuUaQoWE838cta9xVVPUgmWRkaCFSDo1mqYE'
-    access_token = '422219875-NjndsMrVVOhv8kwYRimCwTpQ47IPZUCBoa4RDyN7'
-    access_token_secret = '2M3EY0hLn7uts3S8T1QOW1kKSNQkO7JxJBMJJwIk0ZXDC'
+    consumer_key = 'XXXXXXX'
+    consumer_secret = 'XXXXXXX'
+    access_token = 'XXXXXXX'
+    access_token_secret = 'XXXXXXX'
   
 
     while True:
