@@ -39,8 +39,8 @@ def mount_s3_bucket(access_key, secret_key, bucket_name, mount_folder):
 # COMMAND ----------
 
 # Set AWS programmatic access credentials
-ACCESS_KEY = "AKIAZSJRAIDLHTCE6EOV"
-SECRET_ACCESS_KEY = "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"
+ACCESS_KEY = "XXXXXXXXX"
+SECRET_ACCESS_KEY = "XXXXXXXXXXXXXXXXXXX"
 
 mount_s3_bucket(ACCESS_KEY, SECRET_ACCESS_KEY, 'profbubbles/twitter_climate/','climate')
 
